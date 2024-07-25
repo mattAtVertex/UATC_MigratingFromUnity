@@ -1,0 +1,9 @@
+# Comparing launchers
+
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26156/preview?verifier=gYXgvoNEqJ7TSBnqItR0UmLVD3PJjSqsaZ29Cc7k" alt="Artboard 2.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26156" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26157/preview?verifier=stHn5pI6pZoMAB7d0wdtrfMtkZXLLVgPk0EkQzAD" alt="Artboard 3.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26157" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26158/preview?verifier=xwklISNhcj3gywLD8vkN67VjEdcmLy532vBdFQqX" alt="Artboard 4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26158" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26159/preview?verifier=s7HtHXzYzgtycT2e2Oi0NlkPlDComsbyGU7RlsYl" alt="Artboard 5.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26159" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26161/preview?verifier=wk8gLq9tZdspwEMzTZf7fftU840HhfWnrXfYvnJp" alt="Artboard 6.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26161" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26162/preview?verifier=bqy0PNXClbuyWGuiSurhOUMyJ85BBMkoypoIqJ4n" alt="Artboard 7.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26162" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26163/preview?verifier=IiBSY4IOcj5rdvoYPKucyFzDoap6EP4QhY5UkRHk" alt="Artboard 8.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26163" data-api-returntype="File"></p>
