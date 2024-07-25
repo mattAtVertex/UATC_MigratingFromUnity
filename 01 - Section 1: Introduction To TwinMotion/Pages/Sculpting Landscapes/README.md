@@ -1,0 +1,9 @@
+# Sculpting Landscapes
+
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26203/preview?verifier=zYeDhm0j50tLLZmgKsiazAcLnUgvjFO8KPxZjZ1d" alt="Artboard 25.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26203" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26204/preview?verifier=LeBZTORqTYEsrGVw9jd1sv2aLYY9pMyW5fR0lShY" alt="Artboard 26.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26204" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26205/preview?verifier=aJpauAAdoMoGyLrwk7JgE2DrXuHDgX5pqarpgVpn" alt="Artboard 27.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26205" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26206/preview?verifier=xUh9enmCjEavJ6wuJINrWg9KNROB59EB1lqg0Tec" alt="Artboard 28.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26206" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26207/preview?verifier=26QGJ5KnqWXTgJxwVvkufB2xpk3jzhKLi6e3EHSE" alt="Artboard 29.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26207" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26208/preview?verifier=3Us5qGSNp7059g3CS4TvSMusQIGWc1gm9omZNJgJ" alt="Artboard 30.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26208" data-api-returntype="File"></p>
+<p>&nbsp;</p>
