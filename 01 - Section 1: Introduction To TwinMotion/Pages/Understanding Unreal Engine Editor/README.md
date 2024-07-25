@@ -1,0 +1,8 @@
+# Understanding Unreal Engine Editor
+
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26176/preview?verifier=uh1YWcl1qVZlqlBiBB7D5oBOMIVLDHnZbbN31aGp" alt="Artboard 17.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26176" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26177/preview?verifier=A1GzM6LFB6Kdr1F5FQUEvGxwuOxIxDZTehmVnben" alt="Artboard 18.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26177" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26178/preview?verifier=pBbBOJMjSMj5GLIEvh4p39xjwDGmKcQAiMd352yj" alt="Artboard 19.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26178" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26179/preview?verifier=ZeBEc6A4CPdmrG8ynwBiFDZjugVlEnZMOWJuhbUA" alt="Artboard 20.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26179" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26180/preview?verifier=VVje6VDrYvA9a8DEiNPtDEg5rRYF3whjAZorLr9m" alt="Artboard 21.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26180" data-api-returntype="File"></p>
+<p>&nbsp;</p>
