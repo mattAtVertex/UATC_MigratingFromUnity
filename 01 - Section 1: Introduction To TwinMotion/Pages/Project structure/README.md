@@ -1,0 +1,11 @@
+# Project structure
+
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26164/preview?verifier=qHhKEZNhya4OQywV3WqTvQyOe0dpCdoAGhnuB9Kv" alt="Artboard 9.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26164" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26165/preview?verifier=d7m80kB3fnTig0DT2kggCogr5OlJuqi5tEAQS69I" alt="Artboard 10.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26165" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26166/preview?verifier=4eezoAwoOdggEaWNaQYEz4BVuQhhPBBJsQZpZzRB" alt="Artboard 11.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26166" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26167/preview?verifier=UalNuHnmQfxLHmZ6R3BnjaCOaa6HTzIAkVFFoOnG" alt="Artboard 12.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26167" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26168/preview?verifier=QwzlGUPJ311DR8WHB2Q1oQvYfRR8HeqiXKYKisXH" alt="Artboard 13.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26168" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26169/preview?verifier=YYp4uAalwC4OFJTwhreXkAzd0dEZfgTwYpCelNUY" alt="Artboard 14.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26169" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26170/preview?verifier=4VRuEN8GVvlHvGJGaoypd03PqqxHDCTsXeD2JFyP" alt="Artboard 15.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26170" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/440/files/26171/preview?verifier=mZIxZvkeFv8BGVmROs7oSWF6GuGWKbluacjv2jEb" alt="Artboard 16.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/440/files/26171" data-api-returntype="File"></p>
+<p>&nbsp;</p>
